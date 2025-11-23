@@ -137,3 +137,24 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Code editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables (API keys)
+.env
+*.env
+
+# Node modules (only if later you add any JS packages)
+node_modules/
+
+# Compiled files
+dist/
+build/

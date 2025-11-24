@@ -2,6 +2,13 @@ Medicine & Diseases Information Center
 
 This web app allows users to search for medicines by name and diseases by name and view information such as brand name, generic name, purpose, and warnings. It fetches data from the OpenFDA API and displays information in a table.
 
+This project uses data provided by the OpenFDA Drug Label API, developed and maintained by the U.S. Food & Drug Administration
+I acknowledge and give full credit to the OpenFDA team:
+. Source: OpenFDA Drug Label API
+. Documentation: https://open.fda.gov/apis/drug/label/
+. Ownership: U.S. Food & Drug Administration (FDA)
+This API enables the app to retrieve drugs and diseases information in real time.
+
 . Features
 - Search medicines by name using the OpenFDA Drug Label API
 - Search diseases by name using the OpenFDA API
